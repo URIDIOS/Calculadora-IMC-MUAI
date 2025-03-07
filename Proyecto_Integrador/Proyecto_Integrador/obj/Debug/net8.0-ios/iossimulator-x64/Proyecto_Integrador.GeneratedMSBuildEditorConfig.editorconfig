@@ -1,0 +1,79 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Proyecto_Integrador
+build_property.ProjectDir = C:\Users\Jesus\source\repos\Proyecto_Integrador\Proyecto_Integrador\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Jesus/source/repos/Proyecto_Integrador/Proyecto_Integrador/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Proyecto_Integrador.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Jesus/source/repos/Proyecto_Integrador/Proyecto_Integrador/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Proyecto_Integrador.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Jesus/source/repos/Proyecto_Integrador/Proyecto_Integrador/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Proyecto_Integrador.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Jesus/source/repos/Proyecto_Integrador/Proyecto_Integrador/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Proyecto_Integrador.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Jesus/source/repos/Proyecto_Integrador/Proyecto_Integrador/View/Historial.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Proyecto_Integrador.View.Historial.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Historial.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Historial.xaml
+
+[C:/Users/Jesus/source/repos/Proyecto_Integrador/Proyecto_Integrador/View/Login.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Proyecto_Integrador.View.Login.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Login.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Login.xaml
+
+[C:/Users/Jesus/source/repos/Proyecto_Integrador/Proyecto_Integrador/View/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Proyecto_Integrador.View.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = View\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = View\MainPage.xaml
+
+[C:/Users/Jesus/source/repos/Proyecto_Integrador/Proyecto_Integrador/View/RecuperarContraseña.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Proyecto_Integrador.View.RecuperarContraseña.xaml
+build_metadata.AdditionalFiles.TargetPath = View\RecuperarContraseña.xaml
+build_metadata.AdditionalFiles.RelativePath = View\RecuperarContraseña.xaml
+
+[C:/Users/Jesus/source/repos/Proyecto_Integrador/Proyecto_Integrador/View/Registro.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Proyecto_Integrador.View.Registro.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Registro.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Registro.xaml
+
+[C:/Users/Jesus/source/repos/Proyecto_Integrador/Proyecto_Integrador/View/Videos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Proyecto_Integrador.View.Videos.xaml
+build_metadata.AdditionalFiles.TargetPath = View\Videos.xaml
+build_metadata.AdditionalFiles.RelativePath = View\Videos.xaml
